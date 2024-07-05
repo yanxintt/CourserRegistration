@@ -1,0 +1,43 @@
+Name: TENG AH LI
+Course code: UECS1313
+Lecture   : Monday 8:00AM-10:00AM
+Practical : Tuesday 10:00AM-12:00PM
+--------------
+Name: TENG AH LI
+Course code: UECS1313
+Lecture   : Monday 8:00AM-10:00AM
+Practical : Tuesday 10:00AM-12:00PM
+--------------
+
+Name: WONG AH MEI
+Course code: UECS1313
+Lecture   : Tuesday 1:00PM-3:00PM
+Practical : Tuesday 3:00PM-5:00PM
+--------------
+
+Name: WONG AH MEI
+Course code: UECS1313
+Lecture   		 : Monday 8:00AM-10:00AM
+Practical / Tutorial : Tuesday 10:00AM-12:00PM
+--------------
+Course code: UKMM1011
+Lecture   		 : Monday 10:00AM-12:00PM
+Practical / Tutorial : Friday 12:00PM-1:00PM
+--------------
+
+Name: WONG AH MEI
+Course code: UECS1313
+Lecture   		 : Monday 8:00AM-10:00AM
+Practical / Tutorial : Thursday 10:00AM-12:00PM
+--------------
+
+Name: WONG AH MEI
+Course code: UECS1313
+Lecture   		 : Monday 8:00AM-10:00AM
+Practical / Tutorial : Wednesday 9:00AM-11:00AM
+--------------
+Course code: MPU34022
+Lecture   		 : Monday 10:00AM-12:00PM 
+Practical / Tutorial : Monday 2:00PM-4:00PM
+--------------
+
